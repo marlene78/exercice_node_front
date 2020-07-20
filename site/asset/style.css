@@ -1,0 +1,5 @@
+.cacher{display: none;}
+.visible{display: block;}
+a{color: black;}
+a:hover{color: rebeccapurple;}
+#logout{cursor: pointer;}
